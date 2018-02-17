@@ -5,11 +5,11 @@
 
 ### 三个模块
 
-1. 位置信息
+-1. 位置信息
 
-  A. 总部，分支机构的位置信息(google maps api markers)，固定位置信息，总部在县城，分支机构在乡镇和村庄。
+ -- A. 总部，分支机构的位置信息(google maps api markers)，固定位置信息，总部在县城，分支机构在乡镇和村庄。
 
-  B. 客户固定位置（google maps api markers），固定位置信息，数量过万，后台数据录入。
+ -- B. 客户固定位置（google maps api markers），固定位置信息，数量过万，后台数据录入。
 
   C. 客户经理位置（通过平板电脑APP客户端GPS）实时定位。
 
